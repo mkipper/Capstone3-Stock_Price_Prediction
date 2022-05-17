@@ -1,0 +1,2 @@
+version,model,rmse,mae,rows,train_rows,test_rows,columns
+All+ETFs+Dow,LinearRegression(),0.7089862057687122,0.5583992745285264,2037,1833,204,420
