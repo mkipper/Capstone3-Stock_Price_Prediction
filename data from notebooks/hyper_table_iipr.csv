@@ -1,0 +1,2 @@
+,stock,version,model,rmse,mae,actual_price,predicted_price,rows,train_rows,test_rows,columns
+0,iipr,1+Dow,LinearRegression(),5.107221255760969,4.16023369230357,128.990005,134.33410438569786,1377,1239,138,56

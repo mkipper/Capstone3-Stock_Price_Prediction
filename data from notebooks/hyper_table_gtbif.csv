@@ -1,0 +1,2 @@
+,stock,version,model,rmse,mae,actual_price,predicted_price,rows,train_rows,test_rows,columns
+2,gtbif,1+ETFs+Dow,LinearRegression(),0.3551540204139976,0.27353726876503304,12.75,13.132380249022049,992,892,100,186

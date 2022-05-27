@@ -1,0 +1,2 @@
+,stock,version,model,rmse,mae,actual_price,predicted_price,rows,train_rows,test_rows,columns
+1,curlf,1+ETFs,LinearRegression(),0.1822025459185455,0.14227309074276945,6.05,6.231866610880672,897,807,90,160

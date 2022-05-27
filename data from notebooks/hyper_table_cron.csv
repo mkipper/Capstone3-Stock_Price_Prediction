@@ -1,0 +1,2 @@
+,stock,version,model,rmse,mae,actual_price,predicted_price,rows,train_rows,test_rows,columns
+3,cron,All stocks,LinearRegression(),0.14172421003945868,0.11303571961096283,3.18,3.5253827273328397,1067,960,107,264
